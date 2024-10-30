@@ -1759,4 +1759,15 @@
 
 }
 
-
+@media (max-width: 1400px) {
+	.banner-content .colortitle {
+		color: white;
+		font-size: 42px;
+	}
+}
+@media (max-width: 520px) {
+	.banner-content .colortitle {
+		color: white;
+		font-size:28px;
+	}
+}
